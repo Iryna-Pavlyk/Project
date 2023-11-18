@@ -9,6 +9,11 @@ p {
   margin: 0;
 }
 
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #2c2c2c;
+}
+
 ul {
   margin: 0;
   padding: 0;
@@ -20,6 +25,13 @@ a {
 }
 
 button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+a {
+  font-family: inherit;
+  text-decoration: none;
   cursor: pointer;
 }
 
